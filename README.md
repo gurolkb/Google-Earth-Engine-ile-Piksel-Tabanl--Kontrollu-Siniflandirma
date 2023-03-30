@@ -1,4 +1,4 @@
-# Google Earth Engine ile Piksel Tabanlı Kontrollu Siniflandirma
+# Google Earth Engine ile Piksel Tabanlı Kontrollü Sınıflandırma
  
 Bu kod Earth Engine platformu üzerinde piksel tabanlı sınıflandırma yapmanıza olanak sağlayan örnek bir koddur. Kodda;
 1. ROI (Region of Interest) oluşturma, 
